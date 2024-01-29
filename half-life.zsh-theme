@@ -89,4 +89,4 @@ ZSH_THEME_VIRTUALENV_PREFIX=" with%F{red} "
 ZSH_THEME_VIRTUALENV_SUFFIX="%{$reset_color%}"
 
 setopt prompt_subst
-PROMPT="${purple}%n%{$reset_color%} ❮ ${limegreen}%~%{$reset_color%}\$(virtualenv_prompt_info)\$vcs_info_msg_0_${orange} ❯ λ%{$reset_color%} "
+PROMPT="${limegreen}%~%{$reset_color%}\$(virtualenv_prompt_info)\$vcs_info_msg_0_${orange} λ%{$reset_color%} "
