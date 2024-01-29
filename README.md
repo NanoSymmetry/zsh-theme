@@ -1,2 +1,2 @@
 # zsh-theme
-Inspired by the ohmyzsh "Half-Life" theme.
+A modified ohmyzsh "Half-Life" theme. Mostly for simplicity.
